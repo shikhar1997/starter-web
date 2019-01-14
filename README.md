@@ -10,4 +10,4 @@ Sample website with plenty of files for demos
 I am a readme file.
 
 ## Concept 
-putting this file in all 4 areas to study Comparisons.
+putting this file in all 4 areas to study Comparisons. COOL!
