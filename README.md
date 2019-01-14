@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 ## Introduction
 I am a readme file.
+
+## Concept 
+putting this file in all 4 areas to study Comparisons.
